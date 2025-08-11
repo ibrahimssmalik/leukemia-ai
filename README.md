@@ -3,7 +3,6 @@
 [![Python](https://img.shields.io/badge/Python-3.12-blue.svg)](https://python.org)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange.svg)](https://tensorflow.org)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![Research](https://img.shields.io/badge/Research-MSc%20Thesis-purple.svg)](docs/thesis.pdf)
 
 > **AI-powered framework for leukemia diagnosis using microscopic blood smear images, combining Generative Adversarial Networks, Vision Transformers, and Explainable AI for clinical interpretability.**
 
